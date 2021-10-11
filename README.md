@@ -71,5 +71,7 @@ $fname = 'uploads/uvatar_'.$id.'.'.$ext[1];
 * with two these crafted vulnerbilities we can gain remote command exection
 ## POC
 * check the python script above
-* 
+* ![Alt text](https://github.com/DjebbarAnon/online-learning-system-v2-sqli-authentication-bypass-file-upload-unauthenticated-RCE/blob/main/poc3.PNG?raw=true "POC2")
+* ![Alt text](https://github.com/DjebbarAnon/online-learning-system-v2-sqli-authentication-bypass-file-upload-unauthenticated-RCE/blob/main/poc2.PNG?raw=true "POC1")
+
 
