@@ -70,5 +70,6 @@ $fname = 'uploads/uvatar_'.$id.'.'.$ext[1];
 ## RCE ?! : 
 * with two these crafted vulnerbilities we can gain remote command exection
 ## POC
-check the python script above
-![image](https://user-images.githubusercontent.com/39780283/136836089-db154dd9-6c2b-4850-8695-514623389011.png)
+* check the python script above
+* 
+
